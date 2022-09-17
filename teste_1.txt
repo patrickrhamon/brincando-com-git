@@ -1,3 +1,11 @@
+<< Contribuição da Aninha >>
 Primeira versão do arquivo
 minhas contribuições no teste 1 são apenas figurativas. Brincando aqui para ver se realmente estou aprendendo.
 to simmmmmmmmm 🧚🏾
+
+<< Contribuição do Patrick >>
+Olá Pessoas, boa noite!
+
+Este arquivo aqui é o primeiro arquivo que fizemos no repositório de teste e estamos alterando ele para ter um conflito dos arquivos.
+
+Com esta alteração vai conflitar com o que a Ana subiu e vamos ter que corrigir juntos. O conflito vai ser resolvido para ela entender como funciona.
